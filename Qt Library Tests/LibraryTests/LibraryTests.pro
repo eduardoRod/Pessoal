@@ -4,7 +4,7 @@
 #
 #-------------------------------------------------
 
-QT       += widgets declarative
+QT       += widgets
 
 TARGET = LibraryTests
 TEMPLATE = lib
