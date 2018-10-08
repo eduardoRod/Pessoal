@@ -1,0 +1,10 @@
+main.c:88:5:main	8	static
+main.c:156:6:SystemClock_Config	232	static
+main.c:229:13:MX_ADC3_Init	32	static
+main.c:280:13:MX_DAC1_Init	48	static
+main.c:308:13:MX_TIM8_Init	96	static
+main.c:367:13:MX_USART2_UART_Init	8	static
+main.c:394:13:MX_GPIO_Init	48	static
+main.c:414:10:ADC3_Get_Value	16	static
+main.c:433:6:DAC1_Set_Value	24	static
+main.c:456:6:_Error_Handler	16	static
